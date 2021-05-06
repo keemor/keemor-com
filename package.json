@@ -1,0 +1,22 @@
+{
+  "name": "keemor-com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keemor/keemor-com.git"
+  },
+  "author": "keemor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keemor/keemor-com/issues"
+  },
+  "homepage": "https://github.com/keemor/keemor-com#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
